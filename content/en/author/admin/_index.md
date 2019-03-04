@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Professor de Engenharia de Software"
+role = "Professor of Software Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Faculdade do Gama", url = "http://www.unb.br/" }, { name = "Universidade de Brasília", url = "https://fga.unb.br" } ]
+organizations = [ { name = "Faculty of Gama", url = "http://www.unb.br/" }, { name = "University of Brasilia", url = "https://fga.unb.br" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
@@ -23,28 +23,28 @@ email = "john.gardenghi@unb.br"
 
 # List (academic) interests or hobbies
 interests = [
-  "Algoritmos",
-  "Métodos Computacionais de Otimização"
+  "Algorithms",
+  "Numerical Optimization"
 ]
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["Researchers", "Visitors"]
+user_groups = []
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "D.Sc. - Ciência da Computação"
-  institution = "Universidade de São Paulo"
+  course = "D.Sc. in Computer Science"
+  institution = "University of Sao Paulo"
   year = 2017
 
 [[education.courses]]
-  course = "M.Sc. - Ciência da Computação"
-  institution = "Universidade de São Paulo"
+  course = "M.Sc. in Computer Science"
+  institution = "University of Sao Paulo"
   year = 2014
 
 [[education.courses]]
-  course = "B.Sc. - Ciência da Computação"
-  institution = "Universidade São Francisco"
+  course = "B.Sc. in Computer Science"
+  institution = "University Sao Francisco"
   year = 2011
 
 # Social/Academic Networking
@@ -53,19 +53,35 @@ user_groups = ["Researchers", "Visitors"]
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
-  link = "mailto:john.gardenghi@unb.br"  # For a direct email link, use "mailto:test@example.org".
+  icon = "lattes"
+  icon_pack = "ai",
+  link = "http://lattes.cnpq.br/1723982878095429"
 
-# [[social]]
-#   icon = "twitter"
-#   icon_pack = "fab"
-#   link = "https://twitter.com/GeorgeCushen"
+[[social]]
+  icon = "orcid"
+  icon_pack = "ai"
+  link = "https://orcid.org/0000-0003-4443-8090"
+
+[[social]]
+  icon = "researcherid"
+  icon_pack = "ai"
+  link = "http://www.researcherid.com/rid/G-6365-2015"
+
+[[social]]
+  icon = "researchgate"
+  icon_pack = "ai"
+  link = "https://www.researchgate.net/profile/John_Gardenghi"
+
 
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
   link = "https://scholar.google.com.br/citations?user=5awmfGgAAAAJ"
+
+[[social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  link = "mailto:john.gardenghi@unb.br"  # For a direct email link, use "mailto:test@example.org".
 
 # [[social]]
 #   icon = "github"
@@ -81,6 +97,6 @@ user_groups = ["Researchers", "Visitors"]
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+John L. Gardenghi is a professor of software engineering in the
+Faculty of Gama at the University of Brasilia. His research interests
+include algorithms and computational methods of optimization.
