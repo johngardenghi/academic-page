@@ -3,7 +3,7 @@
 name = "John L. Gardenghi"
 
 # Username (this should match the folder name)
-authors = ["admin"]
+authors = [ "admin" ]
 
 # Is this the primary user of the site?
 superuser = true
@@ -53,34 +53,34 @@ user_groups = []
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
 [[social]]
-  icon = "lattes"
+  icon = "lattes",
   icon_pack = "ai",
   link = "http://lattes.cnpq.br/1723982878095429"
 
 [[social]]
-  icon = "orcid"
-  icon_pack = "ai"
+  icon = "orcid",
+  icon_pack = "ai",
   link = "https://orcid.org/0000-0003-4443-8090"
 
 [[social]]
-  icon = "researcherid"
-  icon_pack = "ai"
+  icon = "researcherid",
+  icon_pack = "ai",
   link = "http://www.researcherid.com/rid/G-6365-2015"
 
 [[social]]
-  icon = "researchgate"
-  icon_pack = "ai"
+  icon = "researchgate",
+  icon_pack = "ai",
   link = "https://www.researchgate.net/profile/John_Gardenghi"
 
 
 [[social]]
-  icon = "google-scholar"
-  icon_pack = "ai"
+  icon = "google-scholar",
+  icon_pack = "ai",
   link = "https://scholar.google.com.br/citations?user=5awmfGgAAAAJ"
 
 [[social]]
-  icon = "envelope"
-  icon_pack = "fas"
+  icon = "envelope",
+  icon_pack = "fas",
   link = "mailto:john.gardenghi@unb.br"
 
 # [[social]]
