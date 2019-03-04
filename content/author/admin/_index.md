@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "John Lenon Gardenghi"
+name = "John L. Gardenghi"
 
 # Username (this should match the folder name)
 authors = ["admin"]
@@ -13,7 +13,7 @@ role = "Professor de Engenharia de Software"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Faculdade do Gama, Universidade de Brasília", url = "https://fga.unb.br" } ]
+organizations = [ { name = "Faculdade do Gama", url = "http://www.unb.br/" }, { name = "Universidade de Brasília", url = "https://fga.unb.br" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
