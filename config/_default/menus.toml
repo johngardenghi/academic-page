@@ -10,8 +10,26 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+#  url = "#publications"
   weight = 20
+
+[[main]]
+  name = "Articles"
+  url = "#publications"
+  parent = "Publications"
+  weight = 1
+
+[[main]]
+  name = "Conference papers"
+  url = "#conference_papers"
+  parent = "Publications"
+  weight = 1
+
+[[main]]
+  name = "Technical reports"
+  url = "#reports"
+  parent = "Publications"
+  weight = 2
 
 [[main]]
   name = "Disciplinas"

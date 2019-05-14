@@ -4,9 +4,9 @@
 
 widget = "pages"  # Do not modify this line!
 active = true  # Activate this widget? true/false
-weight = 90  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Refereed Publications"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
   [content.filters]
     tag = ""
     category = ""
-    publication_type = ""
+    publication_type = "2"
     exclude_featured = false
   
 [design]
@@ -64,7 +64,3 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

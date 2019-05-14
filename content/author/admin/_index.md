@@ -13,7 +13,7 @@ role = "Professor of Software Engineering"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Faculty of Gama", url = "https://fga.unb.br/" }, { name = "University of Brasilia", url = "http://www.unb.br" } ]
+organizations = [ { name = "Faculty UnB Gama", url = "https://fga.unb.br/" }, { name = "University of Brasilia", url = "http://www.unb.br" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = "My research interests include algorithms, nonlinear programming, and computational methods of optimization."
@@ -98,5 +98,5 @@ user_groups = []
 +++
 
 John L. Gardenghi is a professor of software engineering in the
-Faculty of Gama at the University of Brasilia. His research interests
+Faculty UnB Gama at the University of Brasilia. His research interests
 include algorithms and computational methods of optimization.
