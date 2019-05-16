@@ -3,7 +3,7 @@ title = "Evaluation complexity for nonlinear constrained optimization using unsc
 date = 2016-04-12T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos", "Ph. L. Toint"]
 
 # Publication type.
 # Legend:
@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos", "Ph. L. Toint"]
+tags = []
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
