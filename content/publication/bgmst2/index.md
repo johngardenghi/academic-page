@@ -34,7 +34,7 @@ featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos", "Ph. L. Toint"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
