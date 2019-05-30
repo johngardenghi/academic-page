@@ -3,7 +3,7 @@ title = "Um método de pontos interiores primal-dual viável para minimização 
 date = 2014-04-16T18:31:18-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = ["admin"]
 
 # Publication type.
 # Legend:

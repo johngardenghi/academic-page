@@ -3,7 +3,7 @@ title = "Minimização irrestrita usando gradientes conjugados e regiões de con
 date = 2012-05-08T18:33:15-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = []
+authors = [ "admin", "S. A. Santos" ]
 
 # Publication type.
 # Legend:
