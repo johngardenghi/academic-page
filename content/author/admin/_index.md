@@ -19,7 +19,7 @@ organizations = [ { name = "Faculty UnB Gama", url = "https://fga.unb.br/" }, { 
 bio = "My research interests include algorithms, nonlinear programming, and computational methods of optimization."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = "john.gardenghi@unb.br"
+email = "john.gardenghi@gmail.com"
 
 # List (academic) interests or hobbies
 interests = [
