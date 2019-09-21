@@ -55,7 +55,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "code.zip"
+url_code = "https://github.com/johngardenghi/mgh"
 url_dataset = ""
 url_project = ""
 url_slides = ""
