@@ -55,7 +55,7 @@ slides = ""
 # Links (optional).
 url_pdf = "https://rdcu.be/bjyJ6"
 url_preprint = ""
-url_code = "http://www.ime.usp.br/~egbirgin/sources/bgms/"
+url_code = "https://github.com/johngardenghi/ar4"
 url_dataset = ""
 url_project = ""
 url_slides = ""
