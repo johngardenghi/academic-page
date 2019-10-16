@@ -3,7 +3,7 @@ title = "On the use of third-order models with fourth-order regularization for u
 date = 2019-01-31T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos"]
+authors = ["ernesto", "admin", "mario", "sandra"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Optimization Letters"
-publication_short = "OPTL"
+publication_short = ""
 
 # Abstract.
 abstract = "In a recent paper [E. G. Birgin, J. L. Gardenghi, J. M. Martínez, S. A. Santos, and Ph. L. Toint, Worst-case evaluation complexity for unconstrained nonlinear optimization using high-order regularized models, _Mathematical Programming_ 163(1), 359--368, 2017], it was shown that, for the smooth unconstrained optimization problem, worst-case evaluation complexity $O(\\epsilon^{-(p+1)/p})$ may be obtained by means of algorithms that employ sequential approximate minimizations of $p$-th order Taylor models plus $(p+1)$-th order regularization terms. The aforementioned result, which assumes Lipschitz continuity of the $p$-th partial derivatives, generalizes the case $p=2$, known since 2006, which has already motivated efficient implementations. The present paper addresses the issue of defining a reliable algorithm for the case $p=3$. With that purpose, we propose a specific algorithm and we show numerical experiments."

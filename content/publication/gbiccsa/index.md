@@ -3,7 +3,7 @@ title = "An Authentication Middleware for Squid Proxy-Cache: a Single Sign-on Ap
 date = 2012-08-06T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "admin", "M. A. G. Bardi" ]
+authors = [ "admin", "bardi" ]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
 publication = "12th International Conference on Computational Science and Its Applications"
-publication_short = "12th ICCSA"
+publication_short = ""
 
 # Abstract.
 abstract = "The identification process in network environments consists of knowing who is using a resource in order to aggregate security, integrity and control to it. However, the diversification of resources in such environments implies a set of credentials for the same user as well as the requirement of authentication as many times as the resources have to be accessed. In this context, Squid is an interesting tool to work because it allows the use of a third-part authentication engine, which is referred as helper. By this way, the objective of this work is to develop a new scheme of secure and centralized authentication for Squid proxy-cache, with strong support in single sign-on (SSO) strategy, optimizing safety and usability in the use of this resource. This scheme is based on a distributed application that eliminates the direct interaction between Squid identification engine and client that requests access, centralizing the authentication and identification process in a part that we call Middleware Server. It was observed a tradeoff between security and usability in the employment of SSO strategy, particularly because the usage of a central user database is the ideal scenario."

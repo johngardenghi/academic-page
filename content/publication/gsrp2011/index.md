@@ -3,7 +3,7 @@ title = "Sistemas não lineares via região de confiança: o algoritmo de Levenb
 date = 2011-02-27T18:33:18-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "S. A. Santos"]
+authors = ["admin", "sandra"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "Technical Report, University of Campinas"
-publication_short = "TR-Unicamp"
+publication_short = ""
 
 # Abstract.
 abstract = "This work consists in the study and the computational implementation of the Levenberg-Marquardt algorithm, as proposed by Moré (1978), for the solution of nonlinear systems by means of an unconstrained optimization problem. Such a method is globally convergent and can be implemented in an efficient and robust way. Our goal in the preparation of this text was to follow the analysis presented by Moré, including further details and the main ideas of trust-region methods. Moreover, we aimed to organize the necessary concepts to follow the details concerning the numerical andcomputational implementation in a concise but thorough way. The numerical experiments validated the implementation and were totally coded using the CAS Maxima, not only the main program, but also the whole set of functions and routines involving the computational linear algebra of the algorithm."

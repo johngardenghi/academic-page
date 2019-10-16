@@ -4,7 +4,7 @@ title = "Métodos de regiões de confiança para resolução do problema de quad
 date = 2013-04-01T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["admin", "S. A. Santos"]
+authors = ["admin", "sandra"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Trends in Applied and Computational Mathematics"
-publication_short = "TEMA"
+publication_short = ""
 
 # Abstract.
 abstract = "The least squares problem has many applications in the field of optimization. In the present work, we use two strategies for its resolution: Levenberg-Marquardt and Conjugate Gradients. Each one exploits some problem features, and both are globalized by the trust-region strategy. Our contribution consists in the implementation of both methods using the CAS Maxima and in the comparative analysis of these methods in the resolution of a family of least squares problems from the literature."

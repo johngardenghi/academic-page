@@ -1,6 +1,6 @@
 +++
-title = "Third-order derivatives of the Moré, Garbow, and Hillstrom test set problems"
-date = 2019-05-14T18:13:29-03:00
+title = "On the solution of linearly constrained optimization problems by means of barrier algorithms"
+date = 2019-10-15T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["ernesto", "admin", "mario", "sandra"]
@@ -14,14 +14,14 @@ authors = ["ernesto", "admin", "mario", "sandra"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["4"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Technical Report, University of Sao Paulo"
+publication = "Submitted"
 publication_short = ""
 
 # Abstract.
-abstract = "In this report, we provide a user guide to the modern Fortran package implementation of the problems proposed by J. J. Moré, B. S. Garbow, and K. E. Hillstrom, _ACM Trans. Math. Softw._ 7, 14--41, 136--140, 1981. Furthermore, for each problem, the expressions of the objective function and its derivatives up to order three are given."
+abstract = "Many practical problems require the solution of large-scale constrained optimization problems for which preserving feasibility is a key issue and the evaluation of the objective function is very expensive. In these cases it is mandatory to start with a feasible approximation of the solution, the obtention of which should not require objective function evaluations. The necessity of solving this type of problems motivated us to revisit the classical barrier approach for nonlinear optimization, providing a careful implementation of a modern version of this method. This is the main objective of the present paper. For completeness, we provide global convergence results and comparative numerical experiments with one of the state-of-the-art interior-point solvers for continuous optimization."
 
 # Summary. An optional shortened abstract.
 summary = ""
@@ -55,7 +55,7 @@ slides = ""
 # Links (optional).
 url_pdf = ""
 url_preprint = ""
-url_code = "https://github.com/johngardenghi/mgh"
+url_code = "https://github.com/johngardenghi/lcmin"
 url_dataset = ""
 url_project = ""
 url_slides = ""

@@ -3,7 +3,7 @@ title = "Minimização irrestrita usando gradientes conjugados e regiões de con
 date = 2012-05-08T18:33:15-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [ "admin", "S. A. Santos" ]
+authors = [ "admin", "sandra" ]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
 publication = "Technical Report, University of Campinas"
-publication_short = "TR-Unicamp"
+publication_short = ""
 
 # Abstract.
 abstract = "This work focus on the conjugate gradient method to solve the trust region sub-problem for unconstrained minimization. We aim to describe an intuitive and detailed study about this method, starting from an introduction to methods of conjugate directions, some necessary requisites and tools for understanding the conjugate gradient method and its integration with the trust region strategy for unconstrained minimization. The computational implementation of the method using the CAS Maxima enabled the numerical experiments, which validated the study and the implementation done and allowed a comparison between conjugate gradient and Leverberg-Marquardt for least squares problems."

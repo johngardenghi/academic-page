@@ -3,7 +3,7 @@ title = "Worst-case evaluation complexity for unconstrained nonlinear optimizati
 date = 2017-05-01T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["E. G. Birgin", "admin", "J. M. Martínez", "S. A. Santos", "Ph. L. Toint"]
+authors = ["ernesto", "admin", "mario", "sandra", "toint"]
 
 # Publication type.
 # Legend:
@@ -18,7 +18,7 @@ publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Mathematical Programming"
-publication_short = "MP"
+publication_short = ""
 
 # Abstract.
 abstract = "The worst-case evaluation complexity for smooth (possibly nonconvex) unconstrained optimization is considered. It is shown that, if one is willing to use derivatives of the objective function up to order $p$ (for $p\\geq 1$) and to assume Lipschitz continuity of the $p$-th derivative, then an $\\epsilon$-approximate first-order critical point can be computed in at most $O(\\epsilon^{-(p+1)/p})$ evaluations of the problem's objective function and its derivatives. This generalizes and subsumes results known for $p=1$ and $p=2$."
