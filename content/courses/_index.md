@@ -15,6 +15,7 @@ type = "docs"
 +++
 
 * Estruturas de Dados 1
+   * [Verão de 2020](eda1-20-0/)
    * [2º Semestre de 2019](eda1-19-2/)
    * [1º Semestre de 2019](eda1-19-1/)
 
