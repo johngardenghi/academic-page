@@ -14,13 +14,15 @@ type = "docs"
 #   image: ""
 +++
 
-* Estruturas de Dados 1
+* [Estruturas de Dados 1](https://matriculaweb.unb.br/graduacao/disciplina.aspx?cod=193704)
+   * [1º Semestre de 2020](eda1-20-1/)
    * [Verão de 2020](eda1-20-0/)
    * [2º Semestre de 2019](eda1-19-2/)
    * [1º Semestre de 2019](eda1-19-1/)
 
 \
 
-* Fundamentos de Arquitetura de Computadores
+* [Fundamentos de Arquitetura de Computadores](https://matriculaweb.unb.br/graduacao/disciplina.aspx?cod=193674)
+   * [1º Semestre de 2020](fac-20-1/)
    * [2º Semestre de 2019](fac-19-2/)
    * [1º Semestre de 2019](fac-19-1/)
