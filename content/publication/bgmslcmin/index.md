@@ -17,7 +17,7 @@ authors = ["ernesto", "admin", "mario", "sandra"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = "Submitted"
+publication = "To appear in TOP"
 publication_short = ""
 
 # Abstract.
