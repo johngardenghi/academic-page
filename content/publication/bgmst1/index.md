@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "http://rdcu.be/voCB"
-url_preprint = ""
+url_preprint = "article.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
