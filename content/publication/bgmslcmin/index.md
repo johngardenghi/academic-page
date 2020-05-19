@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "https://rdcu.be/b4gba"
-url_preprint = "bgmslcmin.pdf"
+url_preprint = ""
 url_code = "https://github.com/johngardenghi/lcmin"
 url_dataset = ""
 url_project = ""
