@@ -14,10 +14,10 @@ authors = ["ernesto", "admin", "mario", "sandra"]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "To appear in TOP"
+publication = "TOP"
 publication_short = ""
 
 # Abstract.
@@ -27,7 +27,7 @@ abstract = "Many practical problems require the solution of large-scale constrai
 summary = ""
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1007/s11750-020-00559-w"
 
 # Is this a featured publication? (true/false)
 featured = false
@@ -53,8 +53,8 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://rdcu.be/b4gba"
+url_preprint = "bgmslcmin.pdf"
 url_code = "https://github.com/johngardenghi/lcmin"
 url_dataset = ""
 url_project = ""
