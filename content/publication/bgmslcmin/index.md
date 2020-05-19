@@ -1,6 +1,6 @@
 +++
 title = "On the solution of linearly constrained optimization problems by means of barrier algorithms"
-date = 2019-10-15T00:00:00-03:00
+date = 2020-05-18T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["ernesto", "admin", "mario", "sandra"]
@@ -54,7 +54,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = "https://rdcu.be/b4gba"
-url_preprint = ""
+url_preprint = "article.pdf"
 url_code = "https://github.com/johngardenghi/lcmin"
 url_dataset = ""
 url_project = ""
