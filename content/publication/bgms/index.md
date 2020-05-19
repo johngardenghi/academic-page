@@ -53,8 +53,8 @@ projects = []
 slides = ""
 
 # Links (optional).
-url_pdf = "https://rdcu.be/bjyJ6"
-url_preprint = "article.pdf"
+url_pdf = ""
+url_preprint = ""
 url_code = "https://github.com/johngardenghi/ar4"
 url_dataset = ""
 url_project = ""
@@ -65,7 +65,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "SharedIt", url = "https://rdcu.be/bjyJ6"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
