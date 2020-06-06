@@ -1,6 +1,6 @@
 +++
 title = "On the use of third-order models with fourth-order regularization for unconstrained optimization"
-date = 2019-01-31T00:00:00-03:00
+date = 2020-05-24T00:00:00-03:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["ernesto", "admin", "mario", "sandra"]
